@@ -1,6 +1,6 @@
 # Golang pcap-reader 
 
-** Golang pcap-reader reads files in lib pcap file format.**
+**Golang pcap-reader reads files that are in lib pcap file format.**
 
 Example:
 
